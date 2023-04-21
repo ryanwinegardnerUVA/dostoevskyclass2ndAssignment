@@ -170,7 +170,12 @@ footer {
     font-size: 9px
 }
 
-.img {
-  width: 200px; /* set the width to 200 pixels */
-  height: auto; /* maintain the aspect ratio */
+.image-container {
+  display: flex; 
 }
+
+.image-container img {
+  width: 50%; 
+  height: auto; 
+}
+
