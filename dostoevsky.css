@@ -169,3 +169,8 @@ footer {
 footer {
     font-size: 9px
 }
+
+.img {
+  width: 200px; /* set the width to 200 pixels */
+  height: auto; /* maintain the aspect ratio */
+}
